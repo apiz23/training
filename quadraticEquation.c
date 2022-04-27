@@ -1,7 +1,6 @@
 #include <stdio.h>
 #include <math.h>
 
-
 double formula(double a,double b,double c,double o);
 
 void main(){ 
@@ -25,7 +24,6 @@ void main(){
 
     printf("x1 : %0.3lf \n", result1);
     printf("x2 : %0.3lf", result2);
-    
 }
 
 double formula(double a,double b,double c,double o){
